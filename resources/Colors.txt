@@ -1,0 +1,3 @@
+Background - #F3F3F5;
+Text - #000000;
+Gradient - background: linear-gradient(180deg, #FD9F30 0%, #EEE1B4 100%);
